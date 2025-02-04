@@ -21,7 +21,7 @@ See our Developement Guide for more information on how to use the pipelines to c
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/hailo-ai/hailo-rpi5-examples.git
+git clone https://github.com/FlorinCiobotea/hailo-rpi5-examples.git
 ```
 Navigate to the repository directory:
 ```bash
